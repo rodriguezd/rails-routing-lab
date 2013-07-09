@@ -31,6 +31,11 @@ We are no longer using fis/test. This is your first intro to Test::Unit and Mini
 One major difference is that there are new assertions, below are some links to introduce you to them.
 
 [Test::Unit](http://ruby-doc.org/stdlib-2.0/libdoc/test/unit/rdoc/Test/Unit/Assertions.html)
+
 [MiniTest](http://www.ruby-doc.org/gems/docs/h/http_router-0.10.2/MiniTest/Unit/TestCase.html)
+
+We are using assert_generate.
+
+assert_generate takes a path and a route(as a hash) and tries to match them up
 
 Also, Tests are run in a random order so pay attention to the names of the tests to find them in the test run
