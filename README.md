@@ -5,8 +5,7 @@
 - $bundle install
 - $rake test
 - You should see failing tests
-
-### The test file is located at 'test/integration/routes_test_test.rb'
+- The test file is located at 'test/integration/routes_test_test.rb'
 
 ## Your Task:
 
